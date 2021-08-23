@@ -6,4 +6,4 @@ The app could be improved by adding a database or connecting to an API to access
 
 Resource used for learning: [Display a scrollable list - Android Basics in Kotlin](https://developer.android.com/courses/pathways/android-basics-kotlin-unit-2-pathway-3#codelab-https://developer.android.com/codelabs/basic-android-kotlin-training-display-list-cards)
 
-<img src="https://user-images.githubusercontent.com/20629020/130488544-3660587d-afd1-4967-b668-f5ab7c400c90.png" width="100" height="100">
+<img src="https://user-images.githubusercontent.com/20629020/130488544-3660587d-afd1-4967-b668-f5ab7c400c90.png" width="700" >
